@@ -10,19 +10,19 @@ Live Demo on Netlify: patriguide.netlify.app
 
 ### 📌 Features
 
-🗺️ Interactive Map – Visual layout of the campus
+Interactive Map – Visual layout of the campus 🗺️ 
 
-📍 Text-Based Directions – Step-by-step navigation from A Block
+Text-Based Directions – Step-by-step navigation from A Block 📍 
 
-🔍 Search Functionality – Locate departments, rooms, and services
+Search Functionality – Locate departments, rooms, and services 🔍 
 
-🕑 Recent Searches – Access recently visited places quickly
+Recent Searches – Access recently visited places quickly 🕑 
 
-☎️ Emergency Contacts – One-tap dial to college security, admin, and medical help
+Emergency Contacts – One-tap dial to college security, admin, and medical help ☎️ 
 
-🌙 Dark Mode Support – Seamless experience in light and dark themes
+Dark Mode Support – Seamless experience in light and dark themes 🌙 
 
-💻 Technologies Used
+### 💻 Technologies Used
 
 Frontend: React (TypeScript), Tailwind CSS
 
