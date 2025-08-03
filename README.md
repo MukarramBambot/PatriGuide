@@ -59,7 +59,7 @@ Mukarram Bambot
 Patrician College of Arts and Science
 
 - **Email:** mukbambot118@gmail.com
-- **[LinkedIn](https://www.linkedin.com/in/mukarram-bambot)**
+- **[LinkedIn](https://www.linkedin.com/in/mukarrambambot)**
 
 ### License
 This project is licensed under the MIT License.
