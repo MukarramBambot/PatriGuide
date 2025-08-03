@@ -58,7 +58,7 @@ Live Demo on Netlify: patriguide.netlify.app
 Mukarram Bambot
 Patrician College of Arts and Science
 
-- **Email:** mukbambot118@gmail.com
+- **[Email](mukbambot118@gmail.com)**
 - **[LinkedIn](https://www.linkedin.com/in/mukarrambambot)**
 
 ### License
