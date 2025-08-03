@@ -10,51 +10,58 @@ Live Demo on Netlify: patriguide.netlify.app
 
 ### 📌 Features
 
-Interactive Map – Visual layout of the campus 🗺️ 
+**Interactive Map** – Visual layout of the campus 🗺️ 
 
-Text-Based Directions – Step-by-step navigation from A Block 📍 
+**Text-Based Directions** – Step-by-step navigation from A Block 📍 
 
-Search Functionality – Locate departments, rooms, and services 🔍 
+**Search Functionality** – Locate departments, rooms, and services 🔍 
 
-Recent Searches – Access recently visited places quickly 🕑 
+**Recent Searches** – Access recently visited places quickly 🕑 
 
-Emergency Contacts – One-tap dial to college security, admin, and medical help ☎️ 
+**Emergency Contacts** – One-tap dial to college security, admin, and medical help ☎️ 
 
-Dark Mode Support – Seamless experience in light and dark themes 🌙 
+**Dark Mode Support** – Seamless experience in light and dark themes 🌙 
 
 ### 💻 Technologies Used
 
-Frontend: React (TypeScript), Tailwind CSS
+**Frontend:** React (TypeScript), Tailwind CSS
 
-Backend: None (Static data-based navigation)
+**Backend:** None (Static data-based navigation)
 
-Libraries: Lucide-react (icons), React Hooks
+**Libraries:** Lucide-react (icons), React Hooks
 
-Tools: VS Code, GitHub, Bolt.new, Cursor
+**Tools:** VS Code, GitHub, Bolt.new, Cursor
 
-⚙️ How to Install & Run Locally
+## How to Install & Run Locally
 
-1️⃣ Clone the Repository
+1. Clone the repository:
+   ```bash
+    git clone https://github.com/MukarramBambot/PatriGuide.git
 
-git clone https://github.com/MukarramBambot/PatriGuide.git
-cd PatriGuide
+2. Navigate to the project directory:
+   ```bash
+    cd PatriGuide
 
-2️⃣ Install Dependencies
+3. Install the dependencies:
+   ```bash
+   npm install
 
-npm install
+4. Run the development server:
+   ```bash
+   npm run dev
 
-3️⃣ Run the App
+5. Open your browser and go to http://localhost:3000 to see the application in action.
 
-npm run dev
 
-👤 Developed By
+## **👤 Developed By**
 
-Mukarram BambotFinal Year BCA – Patrician College of Arts and Science📧 [Your Email] | 🔗 [LinkedIn Profile] | 🌐 [Portfolio, if any]
+Mukarram Bambot
+Patrician College of Arts and Science📧 [Your Email] | 🔗 [LinkedIn Profile] | 🌐 [Portfolio, if any]
 
-📸 Screenshots
+## Screenshots 📸
 
 (Optional: Add 1–2 screenshots or demo GIFs of the working app)
 
-📜 License
+## License
 
 This project is licensed under the MIT License.
