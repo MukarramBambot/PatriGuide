@@ -58,8 +58,8 @@ Live Demo on Netlify: patriguide.netlify.app
 Mukarram Bambot
 Patrician College of Arts and Science
 
-- **[Email](mukbambot118@gmail.com)**
-- **[LinkedIn](https://www.linkedin.com/in/mukarrambambot)**
+- **[Email](mukbambot118@gmail.com)**: mukbambot118@gmail.com
+- **[LinkedIn](https://www.linkedin.com/in/mukarrambambot)**: https://www.linkedin.com/in/mukarrambambot
 
 ### License
 This project is licensed under the MIT License.
