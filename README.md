@@ -2,7 +2,7 @@
 
 PatriGuide is a final-year mini project developed by Mukarram Bambot, BCA 3rd year student at Patrician College of Arts and Science. It is a campus navigation system designed to help students, staff, and visitors easily locate various departments and facilities within the college premises.
 
-🚀 About PatriGuide
+##🚀 About PatriGuide
 
 PatriGuide provides text-based directions starting from the main entrance (A Block near the Administrative/Principal Office) to any selected location. The app enhances on-campus navigation using a clean interface and intuitive search features.
 
