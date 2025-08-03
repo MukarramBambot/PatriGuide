@@ -1,4 +1,4 @@
-## 📌 PatriGuide – Campus Navigation System
+### 📌 PatriGuide – Campus Navigation System
 
 PatriGuide is a final-year mini project developed by Mukarram Bambot, BCA 3rd year student at Patrician College of Arts and Science. It is a campus navigation system designed to help students, staff, and visitors easily locate various departments and facilities within the college premises.
 
