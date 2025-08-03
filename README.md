@@ -56,12 +56,10 @@ Live Demo on Netlify: patriguide.netlify.app
 ### **👤 Developed By**
 
 Mukarram Bambot
-Patrician College of Arts and Science📧 [Your Email] | 🔗 [LinkedIn Profile] | 🌐 [Portfolio, if any]
+Patrician College of Arts and Science
 
-### Screenshots 📸
-
-(Optional: Add 1–2 screenshots or demo GIFs of the working app)
+- **Email:** mukbambot118@gmail.com
+- **[LinkedIn](https://www.linkedin.com/in/mukarram-bambot)**
 
 ### License
-
 This project is licensed under the MIT License.
