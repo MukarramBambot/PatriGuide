@@ -1,34 +1,60 @@
-# 📌 PatriGuide - Campus Navigation System  
+## 📌 PatriGuide – Campus Navigation System
 
+PatriGuide is a final-year mini project developed by Mukarram Bambot, BCA 3rd year student at Patrician College of Arts and Science. It is a campus navigation system designed to help students, staff, and visitors easily locate various departments and facilities within the college premises.
 
-## 🚀 About PatriGuide  
-**PatriGuide** is a **navigation system application** built for **Patrician College of Arts and Science** to help students, staff, and visitors **easily find locations within the campus**. It provides **text-based directions** from the **main entrance (A Block, near the Administrative/Principal Office)** to any selected destination.  
+🚀 About PatriGuide
 
-This project aims to enhance the **campus experience** by offering an **interactive and user-friendly interface** for quick navigation.  
+PatriGuide provides text-based directions starting from the main entrance (A Block near the Administrative/Principal Office) to any selected location. The app enhances on-campus navigation using a clean interface and intuitive search features.
 
----
+👉 Live Demo on Netlify: [Add your Netlify link here]
 
-## 📌 Features  
-✅ **Interactive Map** – Displays all campus locations  
-✅ **Text-Based Directions** – Provides step-by-step navigation from the entrance  
-✅ **Search Functionality** – Find blocks, departments, and facilities easily  
-✅ **Recent Searches** – Quick access to frequently searched locations  
-✅ **Emergency Contacts** – Quick dial for security, admin, and medical emergencies  
-✅ **Dark Mode Support** – User-friendly interface in both light and dark themes  
+📌 Features
 
----
+🗺️ Interactive Map – Visual layout of the campus
 
-## 📌 Technologies Used  
-- **Frontend:** React (TypeScript), Tailwind CSS  
-- **Backend:** None (Static data-based navigation)  
-- **Libraries:** Lucide-react (Icons), React Hooks  
-- **Development Tools:** VS Code, GitHub, Bolt.new, Cursor  
+📍 Text-Based Directions – Step-by-step navigation from A Block
 
----
+🔍 Search Functionality – Locate departments, rooms, and services
 
-## 📌 How to Install & Run Locally  
+🕑 Recent Searches – Access recently visited places quickly
 
-1️⃣ **Clone the Repository**  
-```sh
-git clone git@github.com:Mukarrambambot/PatriGuide.git
+☎️ Emergency Contacts – One-tap dial to college security, admin, and medical help
+
+🌙 Dark Mode Support – Seamless experience in light and dark themes
+
+💻 Technologies Used
+
+Frontend: React (TypeScript), Tailwind CSS
+
+Backend: None (Static data-based navigation)
+
+Libraries: Lucide-react (icons), React Hooks
+
+Tools: VS Code, GitHub, Bolt.new, Cursor
+
+⚙️ How to Install & Run Locally
+
+1️⃣ Clone the Repository
+
+git clone https://github.com/MukarramBambot/PatriGuide.git
 cd PatriGuide
+
+2️⃣ Install Dependencies
+
+npm install
+
+3️⃣ Run the App
+
+npm run dev
+
+👤 Developed By
+
+Mukarram BambotFinal Year BCA – Patrician College of Arts and Science📧 [Your Email] | 🔗 [LinkedIn Profile] | 🌐 [Portfolio, if any]
+
+📸 Screenshots
+
+(Optional: Add 1–2 screenshots or demo GIFs of the working app)
+
+📜 License
+
+This project is licensed under the MIT License.
