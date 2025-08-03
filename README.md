@@ -6,9 +6,9 @@ PatriGuide is a final-year mini project developed by Mukarram Bambot, BCA 3rd ye
 
 PatriGuide provides text-based directions starting from the main entrance (A Block near the Administrative/Principal Office) to any selected location. The app enhances on-campus navigation using a clean interface and intuitive search features.
 
-👉 Live Demo on Netlify: [Add your Netlify link here]
+Live Demo on Netlify: patriguide.netlify.app
 
-📌 Features
+### 📌 Features
 
 🗺️ Interactive Map – Visual layout of the campus
 
