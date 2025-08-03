@@ -53,15 +53,15 @@ Live Demo on Netlify: patriguide.netlify.app
 5. Open your browser and go to http://localhost:3000 to see the application in action.
 
 
-## **👤 Developed By**
+### **👤 Developed By**
 
 Mukarram Bambot
 Patrician College of Arts and Science📧 [Your Email] | 🔗 [LinkedIn Profile] | 🌐 [Portfolio, if any]
 
-## Screenshots 📸
+### Screenshots 📸
 
 (Optional: Add 1–2 screenshots or demo GIFs of the working app)
 
-## License
+### License
 
 This project is licensed under the MIT License.
